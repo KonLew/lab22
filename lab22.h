@@ -56,6 +56,7 @@ Unit::Unit(string t,string n){
 	guard_on = false;
 	equipment = NULL;
 	dodge_on = false;
+	
 }
 
 void Unit::showStatus(){
